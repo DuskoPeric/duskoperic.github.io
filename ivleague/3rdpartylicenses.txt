@@ -1,4 +1,4 @@
-core-js@2.6.5
+core-js@2.6.9
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev
 
@@ -44,11 +44,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@firebase/polyfill@0.3.12
+@firebase/polyfill@0.3.13
 Apache-2.0
 Apache-2.0
 
-tslib@1.9.3
+tslib@1.10.0
 Apache-2.0
 Apache License
 
@@ -314,23 +314,27 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-@firebase/app@0.3.16
+@angular/fire@5.2.1
+MIT
+MIT
+
+@firebase/app@0.3.17
 Apache-2.0
 Apache-2.0
 
-@firebase/util@0.2.13
+@firebase/util@0.2.14
 Apache-2.0
 Apache-2.0
 
-@firebase/database@0.3.19
+@firebase/database@0.3.20
 Apache-2.0
 Apache-2.0
 
-@firebase/logger@0.1.12
+@firebase/logger@0.1.13
 Apache-2.0
 Apache-2.0
 
-firebase@5.10.0
+firebase@5.11.1
 Apache-2.0
 Apache-2.0
 
@@ -361,10 +365,6 @@ THE SOFTWARE.
 MIT
 MIT
 
-@angular/fire@5.1.2
-MIT
-MIT
-
-angularfire2@5.1.2
+angularfire2@5.2.1
 MIT
 MIT
