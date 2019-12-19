@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ivfoosball/static/css/main.5d9b9504.chunk.css",
-    "main.js": "/ivfoosball/static/js/main.39df9dad.chunk.js",
-    "main.js.map": "/ivfoosball/static/js/main.39df9dad.chunk.js.map",
+    "main.js": "/ivfoosball/static/js/main.e55d2689.chunk.js",
+    "main.js.map": "/ivfoosball/static/js/main.e55d2689.chunk.js.map",
     "runtime-main.js": "/ivfoosball/static/js/runtime-main.b339a2f3.js",
     "runtime-main.js.map": "/ivfoosball/static/js/runtime-main.b339a2f3.js.map",
     "static/js/2.2f293300.chunk.js": "/ivfoosball/static/js/2.2f293300.chunk.js",
     "static/js/2.2f293300.chunk.js.map": "/ivfoosball/static/js/2.2f293300.chunk.js.map",
     "index.html": "/ivfoosball/index.html",
-    "precache-manifest.03f2b3475b1deed2ab6e26029392ad3a.js": "/ivfoosball/precache-manifest.03f2b3475b1deed2ab6e26029392ad3a.js",
+    "precache-manifest.3e1c2a208dc4663347dc6ebcd471e3d4.js": "/ivfoosball/precache-manifest.3e1c2a208dc4663347dc6ebcd471e3d4.js",
     "service-worker.js": "/ivfoosball/service-worker.js",
     "static/css/main.5d9b9504.chunk.css.map": "/ivfoosball/static/css/main.5d9b9504.chunk.css.map",
     "static/media/sch.png": "/ivfoosball/static/media/sch.eec33708.png",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b339a2f3.js",
     "static/js/2.2f293300.chunk.js",
     "static/css/main.5d9b9504.chunk.css",
-    "static/js/main.39df9dad.chunk.js"
+    "static/js/main.e55d2689.chunk.js"
   ]
 }
